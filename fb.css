@@ -1,0 +1,59 @@
+body{
+    font-size: large;
+    background-color: white;
+}
+.whole {
+    display: flex;
+    margin: 50px;
+    width: 100%;
+}
+.fb{
+    background-color: #f5f8f8;
+    font-family: inherit;
+    display: block;
+    width: 980px;
+    height: 396px;
+    margin-left: 50px;
+    margin-right: 0 auto;
+    padding: 20px;
+    position: relative;
+    text-align: center;
+}
+.row {
+    margin: 50px;
+}
+.face {
+    margin-left: 70px;
+    margin-top: 25px;
+}
+button {
+    width: 50%;
+    height: 10%;
+    border-radius: 5px;
+    
+}
+input {
+    width: 50%;
+    height: 10%;
+    border-radius: 5px;
+}
+.Log {
+    color: blue;
+}
+.in {
+    background-color: rgb(169, 169, 248);
+    color: white;
+}
+#new {
+    background-color: green;
+    color: white;
+    width: 25%;
+    height: 10%;
+    border-radius: 8px;
+}
+.page {
+    margin-left: 55%;
+}
+p {
+    font-family: sans-serif;
+}
